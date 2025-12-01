@@ -1,0 +1,2 @@
+# anirss_openlist_sync
+由于anirss不支持openlist的遗漏检测，所以拿ai搓了一个，支持openlist的遗漏检测
